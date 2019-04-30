@@ -12,7 +12,7 @@ tags:
   - Sinhala
 goodreads:   "http://www.uthr.org/BP/Content.htm"
 coverimage:  "https://images.gr-assets.com/books/1323573818l/13187010.jpg"
-bookauthor:  "Rajini Thiranagama and Rajan Hoole"
+bookauthor:  "Rajan Hoole"
 posttype:    "extract-only"
 nameofbook:  "The Broken Palmyra"
 ---
