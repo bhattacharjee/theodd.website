@@ -2,12 +2,6 @@
 layout:      post
 title:       "Some Milestones in the Development of Tamil Political Consciousness"
 date:        2019-04-30 15:08:41 +0100
-categories:
-  - Tamil
-  - Sri Lanka
-  - LTTE
-  - Sociology
-  - History
 tags:
   - Tamil
   - Militancy
