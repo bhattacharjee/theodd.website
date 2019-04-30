@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <!-- Insert the cover image at the start -->
+  {% if page.coverimage %}
+  <p style="text-align:center;">
+    {% if page.goodreads %} <a href={{ page.goodreads }}> {% endif %}
+      <img src={{ page.coverimage }}></img>
+    {% if page.goodreads %} </a> {% endif %}
+  </p>
+  {% endif %}
+
+  <!-- Actual content of the post -->
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <!-- Insert the author and title at the end of the post -->
+  {% if page.nameofbook %}
+    <p>
+      <i>Excerpted from</i> {% if page.goodreads %}<a href={{page.goodreads}}>{% endif %}{{ page.nameofbook }}{% if page.goodreads %}</a>{% endif %}, <i>{{ page.bookauthor}}</i>.
+    </p>
+    <p class=post-meta>
+    The Odd Website is dedicated to books. Every now and then there is a extract from a book of interest in it. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
+    </p>
+  {% endif %}
+
+</article>
