@@ -25,10 +25,12 @@ layout: default
   <!-- Insert the author and title at the end of the post -->
   {% if page.nameofbook %}
     <p>
+      {% if page.posttype == "extract-only" %}
       <i>Excerpted from</i> {% if page.goodreads %}<a href={{page.goodreads}}>{% endif %}{{ page.nameofbook }}{% if page.goodreads %}</a>{% endif %}, <i>{{ page.bookauthor}}</i>.
+      {% endif %}
     </p>
     <p class=post-meta>
-    The Odd Website is dedicated to books. Every now and then there is a extract from a book of interest in it. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
+    The Odd Website is dedicated to books. Every now and then there is a extract from or a review of a book of interest in it. This website is non-profit and extracts and reviews are for educational purposes only. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
     </p>
   {% endif %}
 
