@@ -8,7 +8,6 @@ tags:
   - History
 posttype:    "essay-with-extracts"
 postauthor:  "Rajib Aditya"
-nameofbook:  "The Broken Palmyra"
 ---
 
 Late in the year 1990 I met Tim and Sharon Hansen, Fulbright scholars who were touring India. Although they were a good 30 years older than me, we hit off well. Tim gave me a manuscript of a book he was co-authoring, called _"Parallels: The Soldiers' Knowledge And The Social Definition Of War."_
