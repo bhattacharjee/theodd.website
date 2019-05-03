@@ -114,6 +114,7 @@ blockquote {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
+    font-size: $base-font-size - 1;
     /* letter-spacing: -1px; */
     /* font-style: italic; */
 
