@@ -12,7 +12,7 @@ disclaimer:  "We believe that the extracts used in this essay are covered under 
 postauthorbio: "Rajib's bio"
 ---
 
-Late in the year 1990 I met Tim and Sharon Hansen, Fulbright scholars who were touring India. Although they were a good 30 years older than me, we hit off well. Tim gave me a manuscript of a book he was co-authoring, called _"Parallels: The Soldiers' Knowledge And The Social Definition Of War."_
+Late in the year 1990 I met _Tim_ and _Sharon Hansen_, Fulbright scholars who were touring India. Although they were a good 30 years older than me, we hit off well. Tim gave me a manuscript of a book he was co-authoring, called [_"Parallels: The Soldiers' Knowledge And The Social Definition Of War."_](https://www.goodreads.com/book/show/4264843-parallels)
 
 The manuscript consisted largely of interviews with Vietnam war veterans, reliving their war experience.  In the introduction the authors mention:
 
@@ -28,17 +28,17 @@ According to the Oral History Association, the term oral history refers to "a me
 
 Oral history can be powerful, because it relives trauma, pain, anguish. It can expose personal histories, family histories. It can reveal life in small nondescript villages and shanties that academics have ignored. It can throw you right into the blood and gore, the chaos and bedlam of war.
 
-Here is one such account from Hansen's manuscript:
+Here is one such account from _Hansen_'s manuscript:
 
 > I was flying through the air, hit the ground, slid into the ditch. The jeep came flying in on top of me… There wasn't much left of Junkie… His whole upper torso was gone. I lost it… I just lost it. I was trapped under the jeep, all this shit was going on, and I couldn't get out. I was bleeding through the mouth. I was trapped under the jeep for a good 20 minutes while explosions were going on around me. I couldn't holler to anyone… And I really freaked out. They almost missed me. They got me out and I was flown back in to Duc Pho where they had an aid station. I came out of that with just cracked ribs and some bad lungs. 
 >
 > The only other significant thing during this time was the first time I was in close combat. We got overrun one night. They got through to us. They came through the wire near the bunker I was in. Bunkers are L-shaped so explosions can't get straight into them. When they penetrated the wire one man in the bunker was to go out to the back door. I went running around the corner and ran straight into a sapper. We both hit the ground… And I remember just freaking out. I had to back up to shoot him. It was weird… Everything in his head was gone. His face was there, but the eye sockets were empty. I emptied his whole head out, and it all happened in an instant.
 
-The authors are all too aware of the problems that a historian faces when using oral recollections. Especially in the theatre of war. They quote _David Hackworth, author of "About Face"_:
+The authors are all too aware of the problems that a historian faces when using oral recollections. Especially in the theatre of war. They quote _David Hackworth_, author of [_"About Face"_](https://www.goodreads.com/book/show/289058.About_Face):
 
 >The [...] problem is that they have their genesis in the fog of war. In battle, your perception is often only as wide as your battle sights. Five participants in the same action, fighting side-by-side, will often tell entirely different stories of what happened, even within hours of the fight. The story each man tells might be virtually unrecognizable to the others. But that does not make it any less true. 
 
-Nevertheless, Hansen and the other authors say: The soldiers' knowledge in these narratives has a number of claims to its authority.
+Nevertheless, _Hansen_ and the other authors say: The soldiers' knowledge in these narratives has a number of claims to its authority.
 
 In June 1944, United States Army historian Forrest C. Pogue picked up a wire recorder on a hospital ship off Omaha Beach and began interviewing soldiers wounded in D-Day battles. His interviews, done under the direction of chief army historian S. L. A. Marshall, helped lay the groundwork for the development of oral history as a research techn
 
@@ -46,27 +46,27 @@ The genre grew in volume and stature after the war. It was largely fueled by a s
 
 But is memory accurate? Such works on traumatic experiences have often been criticized. The authenticity of the telling questioned.
 
-The authors of _"Survivors: An Oral History of the Armenian Genocide"_, reply:
+The authors of [_"Survivors: An Oral History of the Armenian Genocide"_](https://www.goodreads.com/book/show/383671.Survivors), reply:
 
 >We actually have some sympathy with the charge that survivors remember "tales of horror ... in such detail as to astonish the imagination." Indeed, we ourselves have often been amazed by the specificity of survivor recall. However, rather than discrediting the testimony because of its detailed nature, we have been drawn to ask a different question: namely, what accounts for the remarkable quality of survivor memory?	
 >
 >We believe the answer to this question lies in the exceptional nature of the events described: fathers being shot or tortured, mothers and siblings being sexually abused, children being abducted, and a litany of other horrors. Such memories are not easily forgotten. Indeed, they seem to be burned irrevocably into the consciousness of survivors. They dream about them at night. They have an incessant, even obsessive, need to talk about these events.
 
-_Alessandro Portelli_, author of _"The Order Has Been Carried Out- History, Memory, And Meaning Of A Nazi Massacre In Rome"_, writes:
+_Alessandro Portelli_, author of [_"The Order Has Been Carried Out- History, Memory, And Meaning Of A Nazi Massacre In Rome"_](https://www.goodreads.com/book/show/199011.The_Order_Has_Been_Carried_Out), writes:
 
 >One of the differences between oral and written sources is that the latter are documents while the former are always acts. Oral sources are not to be thought of in terms of nouns and objects but in terms of verbs and processes; not the memory and the tale but the remembering and the telling. Oral sources are never anonymous or impersonal, as written documents may often be. The tale and the memory may include materials shared with others, but the rememberer and the teller are always individual persons who take on the task of remembering and the responsibility of telling. Settimia Spizzichino, the only woman survivor among the Jews deported on October 16, 1944, said: "I made a promise when I was in the camp, I made a solemn promise to my companions, who were being picked out [to be killed] or dying from disease and abuse. I rebelled, I didn't know whether to curse God or pray to Him, and repeated over and over, Lord save me, save me, because I must go back and tell."
 
-From the front piece of _Tears Before The Rain_:
+From the front piece of [_Tears Before The Rain_](https://www.goodreads.com/book/show/1768114.Tears_Before_The_Rain):
 
 > I don’t want my memories to be lost, like tears in the rain. So I will tell you my story. Then you can tell it to others. Maybe if enough people know what happened to Vietnam, then my memories will never be lost. Maybe then they will be like tears before the rain. So listen. This is very important. This is what I remember. This is what happened to me. These are my tears before the rain.
 >
 > \- Duong Gang Son
 
-Orality, and memory, are also forms of rebellion. They go against the grain of conventional academic/professional historianship. Historian _Prachi Deshpande_, in her book _"Creative Pasts"_, writes:
+Orality, and memory, are also forms of rebellion. They go against the grain of conventional academic/professional historianship. Historian _Prachi Deshpande_, in her book [_"Creative Pasts"_](https://www.goodreads.com/book/show/1125262.Creative_Pasts), writes:
 
 > In recent years the category of Memory has emerged as a prominent framework to examine cultural practices through which groups represent the past. Much of the scholarship that has led to the Memory boom has followed two broad tracks. One major strand contrasts memory and history, the latter seen as replacing the former after the Enlightenment in the West as a more critical, rational, and scientific appreciation of the past. This approach suggests that history came to view the past as more distant and objectified, and gradually eroded spontaneous connection with it and its presence in everyday life. Scholarship on technology and culture has reinforced this view, tracing a linear development from oral myths, legends, and texts in mnemonic verse that provided an unbroken, living connection with the past to a critical distance and exteriority introduced first by literacy, and later, more emphatically by print. Broadly then, memory and history, orality and literacy (and, very often, non-West and West) have appeared as homologous binaries placed along a linear, unfolding path from tradition to modernity. This has resulted in the renewed privileging of memory as an elusive, yet more legitimate means of getting closer to the past.
 
-_"Event, Metaphor, Memory, Chauri Chaura 1922-1992"_, by historian _Shahid Amin_ has been hailed as a path-breaking academic work.
+[_"Event, Metaphor, Memory, Chauri Chaura 1922-1992"_](https://www.goodreads.com/book/show/332462.Event_Metaphor_Memory), by historian _Shahid Amin_ has been hailed as a path-breaking academic work.
 
 On 4 February 1922, peasant volunteers who had enlisted in Gandhi's newly launched people's struggle against the British rule turned violent and burned down a police station of "Chauri Chaura", killing 23 policemen. According to Shahid Amin, this dramatic occurrence simply had to be quickly forgotten as a stain upon the clean sheets of country and nonviolence. 
 
@@ -74,11 +74,11 @@ And so it indeed was. Shahid went back seventy years later, and interviewed rela
 
 >When writing histories of the unlettered – workers or peasants who produce goods and services, not documents – it is now conventional to latch onto extraordinary events in the lives of such people. Peasants do not write, they are written about. The speech of humble folk is not normally recorded for posterity - it is wrenched from them in courtrooms and inquisitorial traps. Historians have therefore learned to cope with confessions and testimonies for the evidence, for this is where peasants cry out, dissimulate or indeed narrate. Like other members of my tribe, I have in this book attempted to interrogate the interrogators. In order not to write like the judge, I have tried to find out how the judge wrote. 
 
-In India there has been a spate of books in the recent past which use oral history and memory to recount the trauma of partition in 1947. Take for example, _Urvashi Butalia_'s _"The Other Side Of Silence: Voices From The Partition Of India"_; _Ritu Menon_ and _Kamla Bhasin_'s _"Borders And Boundaries: Woman In India's Partition"_; _Gyaendra Pandey_'s _"Remembering Partition: Violence, Nationalism, And History In India"_ and _"The Partition Of Memory: The Afterlife Of The Division Of India"_ edited by _Suvir Kaul_.
+In India there has been a spate of books in the recent past which use oral history and memory to recount the trauma of partition in 1947. Take for example, _Urvashi Butalia_'s [_"The Other Side Of Silence: Voices From The Partition Of India"_](https://www.goodreads.com/book/show/83007.The_Other_Side_of_Silence); _Ritu Menon_ and _Kamla Bhasin_'s [_"Borders And Boundaries: Woman In India's Partition"_](https://www.goodreads.com/book/show/895366.Borders_and_Boundaries); _Gyaendra Pandey_'s [_"Remembering Partition: Violence, Nationalism, And History In India"_](https://www.goodreads.com/book/show/354005.Remembering_Partition) and [_"The Partition Of Memory: The Afterlife Of The Division Of India"_](https://www.goodreads.com/book/show/517946.The_Partitions_of_Memory) edited by _Suvir Kaul_.
 
 Endorsement and recognition for the format has come as a Nobel Prize. In 2015 Belarus journalist _Svetlana Alexievich_ won the Nobel Prize for Literature. The motivation, as stated by the Committee, was "for her polyphonic writings, a monument to suffering and courage in our time."
 
-She writes in Russian, about Soviet/Russian experiences. Notable books have been _"Zinky Boys: Soviet Voices from a Forgotten War"_, about the Afghan war experience, _“Chernobyl Prayer / Voices from Chernobyl”_, and of course, her first book _"The Unwomanly Face of War: An Oral History of Women in World War II"_.
+She writes in Russian, about Soviet/Russian experiences. Notable books have been [_"Zinky Boys: Soviet Voices from a Forgotten War"_](https://www.goodreads.com/book/show/5586087-zinky-boys), about the Afghan war experience, [_“Chernobyl Prayer / Voices from Chernobyl”_](https://www.goodreads.com/book/show/29675406-chernobyl-prayer), and of course, her first book [_"The Unwomanly Face of War: An Oral History of Women in World War II"_](https://www.goodreads.com/book/show/4025275-war-s-unwomanly-face).
 
 Here's an excerpt:
 
@@ -98,7 +98,7 @@ _Second Voice_:
 
 In oral history, the role of the journalist and the historian have fuzzy boundaries, even if their motivations are somewhat different.
 
-In _Tears Before The Rain_, CBS Reporter _Mike Marriott_ recounts:
+In [_Tears Before The Rain_](https://www.goodreads.com/book/show/1768114.Tears_Before_The_Rain), CBS Reporter _Mike Marriott_ recounts:
 
 >I was the cameraman on that last flight up to Danang. Bruce Dunning and Mai Van Due and I got permission to go along with Ed Daly. When we asked him for permission to go along, he said, “Sure, the more the merrier.”
 When we came in for the landing in Danang, the twin runways were perfectly clear, and there was not a person near the runways or the taxiways or anything. And there seemed to be no one around the hangars. It seemed contrary to every report we had heard that Danang was about to fall. We had expected to see panic in the streets and wild mobs. We could see the city of Danang, too, and the streets were quiet. So we landed.
