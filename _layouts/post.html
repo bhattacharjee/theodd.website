@@ -19,19 +19,41 @@ layout: default
 
   <!-- Actual content of the post -->
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {% if "extract-only" == page.posttype %}<blockquote>{% endif %}
+      {{ content }}
+    {% if "extract-only" == page.posttype %}</blockquote>{% endif %}
   </div>
 
+  <!-- Contributor and disclaimer -->
+  {% if "essay-with-extracts" == page.posttype %}
+    {% if page.postauthor %}
+      <p class=post-meta>This essay has been contributed by {{page.postauthor}} and is intended for educational purposes only.</p>
+    {% else %}
+      <p class=post-meta>This essay is intended for educational purposes only.</p>
+    {% endif %}
+  {% endif %}
+
+  <!-- Post author bio -->
+  {% if page.postauthorbio %}
+    <p class=post-meta>{{page.postauthorbio}}</p>
+  {% endif %}
+
+  <!-- Disclaimer if required -->
+  {% if page.disclaimer %}
+    <p class=post-meta>
+	{{ page.disclaimer }}
+    </p>
+  {% endif %}
   <!-- Insert the author and title at the end of the post -->
   {% if page.nameofbook %}
     <p>
-      {% if page.posttype == "extract-only" %}
+      {% if "extract-only" == page.posttype %}
       <i>Excerpted from</i> {% if page.goodreads %}<a href={{page.goodreads}}>{% endif %}{{ page.nameofbook }}{% if page.goodreads %}</a>{% endif %}, <i>{{ page.bookauthor}}</i>.
       {% endif %}
     </p>
-    <p class=post-meta>
-    The Odd Website is dedicated to books. Every now and then there is a extract from or a review of a book of interest in it. This website is non-profit and extracts and reviews are for educational purposes only. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
-    </p>
   {% endif %}
+  <p class=post-meta>
+  The Odd Website is dedicated to books. Every now and then there is a extract from or a review of a book of interest in it. On the odd day, there might be an essay about books, and occasionally we might even share a video about an old school or a fancy bookstore that we like. In short, we're not averse to anything that has to do with books. This website is non-profit and extracts and reviews are for educational purposes only. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
+  </p>
 
 </article>
