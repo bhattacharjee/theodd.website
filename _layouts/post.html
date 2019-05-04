@@ -58,4 +58,13 @@ layout: default
   The Odd Website is dedicated to books. Every now and then there is a extract from or a review of a book of interest in it. On the odd day, there might be an essay about books, and occasionally we might even share a video about an old school or a fancy bookstore that we like. In short, we're not averse to anything that has to do with books. This website is non-profit and extracts and reviews are for educational purposes only. If you like books you might consider <a type="application/rss+xml" href="/feed.xml">subscribing</a>.
   </p>
 
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
 </article>
