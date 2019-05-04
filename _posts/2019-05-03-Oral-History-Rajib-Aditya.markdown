@@ -9,6 +9,7 @@ tags:
 posttype:    "essay-with-extracts"
 postauthor:  "Rajib Aditya"
 disclaimer:  "We believe that the extracts used in this essay are covered under fair use for educational purposes. If there are any objections to any of the extracts used in this essay, please get in touch with us and we will remove them."
+coverimage: "https://images.gr-assets.com/books/1416179075l/4264843.jpg"
 postauthorbio: "Rajib's bio"
 ---
 
@@ -46,15 +47,21 @@ The genre grew in volume and stature after the war. It was largely fueled by a s
 
 But is memory accurate? Such works on traumatic experiences have often been criticized. The authenticity of the telling questioned.
 
+<p><div align="center"><a href="https://www.goodreads.com/book/show/383671.Survivors"><img src="https://images.gr-assets.com/books/1388389114l/383671.jpg" /></a></div></p>
+
 The authors of [_"Survivors: An Oral History of the Armenian Genocide"_](https://www.goodreads.com/book/show/383671.Survivors), reply:
 
 >We actually have some sympathy with the charge that survivors remember "tales of horror ... in such detail as to astonish the imagination." Indeed, we ourselves have often been amazed by the specificity of survivor recall. However, rather than discrediting the testimony because of its detailed nature, we have been drawn to ask a different question: namely, what accounts for the remarkable quality of survivor memory?	
 >
 >We believe the answer to this question lies in the exceptional nature of the events described: fathers being shot or tortured, mothers and siblings being sexually abused, children being abducted, and a litany of other horrors. Such memories are not easily forgotten. Indeed, they seem to be burned irrevocably into the consciousness of survivors. They dream about them at night. They have an incessant, even obsessive, need to talk about these events.
 
+<p><div align="center"><a href="https://www.goodreads.com/book/show/199011.The_Order_Has_Been_Carried_Out"><img src="https://images.gr-assets.com/books/1386922822l/199011.jpg" /></a></div></p>
+
 _Alessandro Portelli_, author of [_"The Order Has Been Carried Out- History, Memory, And Meaning Of A Nazi Massacre In Rome"_](https://www.goodreads.com/book/show/199011.The_Order_Has_Been_Carried_Out), writes:
 
 >One of the differences between oral and written sources is that the latter are documents while the former are always acts. Oral sources are not to be thought of in terms of nouns and objects but in terms of verbs and processes; not the memory and the tale but the remembering and the telling. Oral sources are never anonymous or impersonal, as written documents may often be. The tale and the memory may include materials shared with others, but the rememberer and the teller are always individual persons who take on the task of remembering and the responsibility of telling. Settimia Spizzichino, the only woman survivor among the Jews deported on October 16, 1944, said: "I made a promise when I was in the camp, I made a solemn promise to my companions, who were being picked out [to be killed] or dying from disease and abuse. I rebelled, I didn't know whether to curse God or pray to Him, and repeated over and over, Lord save me, save me, because I must go back and tell."
+
+<p><div align="center"><a href="https://www.goodreads.com/book/show/1768114.Tears_Before_The_Rain"><img src="https://images.gr-assets.com/books/1348759955l/1768114.jpg" /></a></div></p>
 
 From the front piece of [_Tears Before The Rain_](https://www.goodreads.com/book/show/1768114.Tears_Before_The_Rain):
 
@@ -62,9 +69,13 @@ From the front piece of [_Tears Before The Rain_](https://www.goodreads.com/book
 >
 > \- Duong Gang Son
 
+<p><div align="center"><a href="https://www.goodreads.com/book/show/1125262.Creative_Pasts"><img src="https://images.gr-assets.com/books/1348260087l/1125262.jpg" /></a></div></p>
+
 Orality, and memory, are also forms of rebellion. They go against the grain of conventional academic/professional historianship. Historian _Prachi Deshpande_, in her book [_"Creative Pasts"_](https://www.goodreads.com/book/show/1125262.Creative_Pasts), writes:
 
 > In recent years the category of Memory has emerged as a prominent framework to examine cultural practices through which groups represent the past. Much of the scholarship that has led to the Memory boom has followed two broad tracks. One major strand contrasts memory and history, the latter seen as replacing the former after the Enlightenment in the West as a more critical, rational, and scientific appreciation of the past. This approach suggests that history came to view the past as more distant and objectified, and gradually eroded spontaneous connection with it and its presence in everyday life. Scholarship on technology and culture has reinforced this view, tracing a linear development from oral myths, legends, and texts in mnemonic verse that provided an unbroken, living connection with the past to a critical distance and exteriority introduced first by literacy, and later, more emphatically by print. Broadly then, memory and history, orality and literacy (and, very often, non-West and West) have appeared as homologous binaries placed along a linear, unfolding path from tradition to modernity. This has resulted in the renewed privileging of memory as an elusive, yet more legitimate means of getting closer to the past.
+
+<p><div align="center"><a href="https://www.goodreads.com/book/show/332462.Event_Metaphor_Memory"><img src="https://images.gr-assets.com/books/1387701382l/332462.jpg" /></a></div></p>
 
 [_"Event, Metaphor, Memory, Chauri Chaura 1922-1992"_](https://www.goodreads.com/book/show/332462.Event_Metaphor_Memory), by historian _Shahid Amin_ has been hailed as a path-breaking academic work.
 
@@ -73,6 +84,23 @@ On 4 February 1922, peasant volunteers who had enlisted in Gandhi's newly launch
 And so it indeed was. Shahid went back seventy years later, and interviewed relatives of the rioters, to try and recreate the history of those events. He also referred to police records of the inquisition that followed. But testimonies in court inquiries that followed came mainly from the accused. These voices were thus muted. In his prologue he writes:
 
 >When writing histories of the unlettered – workers or peasants who produce goods and services, not documents – it is now conventional to latch onto extraordinary events in the lives of such people. Peasants do not write, they are written about. The speech of humble folk is not normally recorded for posterity - it is wrenched from them in courtrooms and inquisitorial traps. Historians have therefore learned to cope with confessions and testimonies for the evidence, for this is where peasants cry out, dissimulate or indeed narrate. Like other members of my tribe, I have in this book attempted to interrogate the interrogators. In order not to write like the judge, I have tried to find out how the judge wrote. 
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/83007.The_Other_Side_of_Silence"><img src="https://images.gr-assets.com/books/1348271379l/83007.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/895366.Borders_and_Boundaries"><img src="https://images.gr-assets.com/books/1348361270l/895366.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/517946.The_Partitions_of_Memory"><img src="https://images.gr-assets.com/books/1348382623l/517946.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/354005.Remembering_Partition"><img src="https://images.gr-assets.com/books/1390344407l/354005.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+    </tr>
+  </table>
 
 In India there has been a spate of books in the recent past which use oral history and memory to recount the trauma of partition in 1947. Take for example, _Urvashi Butalia_'s [_"The Other Side Of Silence: Voices From The Partition Of India"_](https://www.goodreads.com/book/show/83007.The_Other_Side_of_Silence); _Ritu Menon_ and _Kamla Bhasin_'s [_"Borders And Boundaries: Woman In India's Partition"_](https://www.goodreads.com/book/show/895366.Borders_and_Boundaries); _Gyaendra Pandey_'s [_"Remembering Partition: Violence, Nationalism, And History In India"_](https://www.goodreads.com/book/show/354005.Remembering_Partition) and [_"The Partition Of Memory: The Afterlife Of The Division Of India"_](https://www.goodreads.com/book/show/517946.The_Partitions_of_Memory) edited by _Suvir Kaul_.
 
