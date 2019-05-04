@@ -11,6 +11,9 @@
 
   <!-- Add image for facebook previews, if available -->
   {% if page.coverimage %}<meta property="og:image" content="{{page.coverimage}}" />{% endif %}
+
+  <!-- FB AppId for FB Statistics -->
+  <meta property="fb:app_id" content="484869139007049" />
   
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
