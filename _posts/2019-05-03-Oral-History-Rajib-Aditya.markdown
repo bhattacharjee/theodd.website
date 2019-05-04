@@ -39,6 +39,8 @@ The authors are all too aware of the problems that a historian faces when using 
 
 >The [...] problem is that they have their genesis in the fog of war. In battle, your perception is often only as wide as your battle sights. Five participants in the same action, fighting side-by-side, will often tell entirely different stories of what happened, even within hours of the fight. The story each man tells might be virtually unrecognizable to the others. But that does not make it any less true. 
 
+<p><div align="center"><a href="https://www.goodreads.com/book/show/289058.About_Face"><img src="https://images.gr-assets.com/books/1341970748l/289058.jpg" /></a></div></p>
+
 Nevertheless, _Hansen_ and the other authors say: The soldiers' knowledge in these narratives has a number of claims to its authority.
 
 In June 1944, United States Army historian Forrest C. Pogue picked up a wire recorder on a hospital ship off Omaha Beach and began interviewing soldiers wounded in D-Day battles. His interviews, done under the direction of chief army historian S. L. A. Marshall, helped lay the groundwork for the development of oral history as a research techn
