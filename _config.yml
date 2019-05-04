@@ -9,7 +9,7 @@
 title: The Odd Website
 email: rajbir@medium35.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog where I post interesting snippets from books that I read.
+  Books, more books, and yet more books. Mostly non-fiction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theodd.website" # the base hostname & protocol for your site
 
