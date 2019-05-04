@@ -44,9 +44,9 @@ The authors are all too aware of the problems that a historian faces when using 
 
 Nevertheless, _Hansen_ and the other authors say: The soldiers' knowledge in these narratives has a number of claims to its authority.
 
-In June 1944, United States Army historian Forrest C. Pogue picked up a wire recorder on a hospital ship off Omaha Beach and began interviewing soldiers wounded in D-Day battles. His interviews, done under the direction of chief army historian S. L. A. Marshall, helped lay the groundwork for the development of oral history as a research techn
+In June 1944, United States Army historian Forrest C. Pogue picked up a wire recorder on a hospital ship off Omaha Beach and began interviewing soldiers wounded in D-Day battles. His interviews, done under the direction of chief army historian S. L. A. Marshall, helped lay the groundwork for the development of oral history as a research technique.
 
-The genre grew in volume and stature after the war. It was largely fueled by a sizeable body of literature on World War II, especially the Holocaust. These have employed the category of "memory" to explore lived experiences of survivors of traumatic events that conventional historical methods cannot cap
+The genre grew in volume and stature after the war. It was largely fueled by a sizeable body of literature on World War II, especially the Holocaust. These have employed the category of "memory" to explore lived experiences of survivors of traumatic events that conventional historical methods cannot capture.
 
 But is memory accurate? Such works on traumatic experiences have often been criticized. The authenticity of the telling questioned.
 
