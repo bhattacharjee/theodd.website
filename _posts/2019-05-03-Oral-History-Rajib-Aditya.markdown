@@ -11,7 +11,7 @@ postauthor:  "Rajib Aditya"
 disclaimer:  "We believe that the extracts used in this essay are covered under fair use for educational purposes. If there are any objections to any of the extracts used in this essay, please get in touch with us and we will remove them."
 coverimage:  "https://images.gr-assets.com/books/1416179075l/4264843.jpg"
 goodreads:   "https://www.goodreads.com/book/show/4264843-parallels"
-postauthorbio: "Rajib's bio"
+postauthorbio: "Rajib Aditya makes films and audio content for training and marketing. He reads books, listens to music, watches films. Subjects of interest range from science, technology, Indic philosophy to history, historiography, AI, biodiversity, ecology, travel and adventure, comics, and sound design in games. Besides many other things."
 ---
 
 Late in the year 1990 I met _Tim_ and _Sharon Hansen_, Fulbright scholars who were touring India. Although they were a good 30 years older than me, we hit off well. Tim gave me a manuscript of a book he was co-authoring, called [_"Parallels: The Soldiers' Knowledge And The Social Definition Of War."_](https://www.goodreads.com/book/show/4264843-parallels)
