@@ -124,6 +124,20 @@ _Second Voice_:
 
 >“We lived near the Chernobyl nuclear plant. I was working at a bakery, making pasties. My husband was a fireman. We had just gotten married, and we held hands even when we went to the store. The day the reactor exploded, my husband was on duty at the fire station. They responded to the call in their shirtsleeves, in regular clothes – there was an explosion at the nuclear power station, but they weren’t given any special clothing. That’s just the way we lived … You know … They worked all night putting out the fire, and received doses of radiation incompatible with life. The next morning, they were flown straight to Moscow. Severe radiation sickness … you don’t live for more than a few weeks … My husband was strong, an athlete, and he was the last to die. When I got to Moscow, they told me that he was in a special isolation chamber and no one was allowed in. “But I love him,” I begged. “Soldiers are taking care of them. Where do you think you’re going?” “I love him.” They argued with me: “This isn’t the man you love anymore, he’s an object requiring decontamination. You get it?” I kept telling myself the same thing over and over: I love, I love … At night, I would climb up the fire escape to see him … Or I’d ask the night janitors … I paid them money so they’d let me in … I didn’t abandon him, I was with him until the end … A few months after his death, I gave birth to a little girl, but she lived only a few days. She … We were so excited about her, and I killed her … She saved me, she absorbed all the radiation herself. She was so little … teeny-tiny … But I loved them both. Can you really kill with love? Why are love and death so close? They always come together. Who can explain it? At the grave I go down on my knees …”
 
+  <table width="100%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/5586087-zinky-boys"><img src="https://images.gr-assets.com/books/1348597622l/5586087.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/29675406-chernobyl-prayer"><img src="https://images.gr-assets.com/books/1459250416l/29675406.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+      <td style="text-align:center; vertical-align:middle; height:220px">
+        <a href="https://www.goodreads.com/book/show/4025275-war-s-unwomanly-face"><img src="https://images.gr-assets.com/books/1338204032l/4025275.jpg" style="max-height:100%; max-width:100%"/></a>
+      </td>
+    </tr>
+  </table>
+
 In oral history, the role of the journalist and the historian have fuzzy boundaries, even if their motivations are somewhat different.
 
 In [_Tears Before The Rain_](https://www.goodreads.com/book/show/1768114.Tears_Before_The_Rain), CBS Reporter _Mike Marriott_ recounts:
