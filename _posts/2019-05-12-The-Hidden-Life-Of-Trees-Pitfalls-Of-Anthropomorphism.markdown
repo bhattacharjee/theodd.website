@@ -24,7 +24,7 @@ Peter Wohlleben is a forester in Germany, and the book is purportedly written so
 
 Wohlleben, however, is determined to present trees as human beings with barks and leaves. Anthropomorphism, unfortunately, is a fetish throughout the book, and becomes self defeating. Trees are fascinating and complex organisms, and they deserve our attention and respect for what they are, not for being like us and not for being useful to us.
 
-In the beginning Wohlleben makes some distinction between trees actually having animal sense or having something akin to it.
+In the beginning Wohlleben, by enclosing smell in quotes, makes some distinction between trees actually having animal sense or having something akin to it.
 > As the chemical drifts through the air and reaches other trees, they "smell" it and are warned of the danger. Even before the giraffe reaches them, they begin producing toxic chemicals. Insect pests are dealt with slightly differently. The saliva of leaf-eating insects can be "tasted" by the leaf being eaten.
 
 Smell isn't merely the the chemical process of detection of a molecule. A large part of the sense is the cognition of it in which the brain transforms the detection of a molecule into something that we call a sense. If cognition weren't a part of it, one could well argue that gas chromatographs can smell just like humans can. However, popular science books often use anthropomorphic terms in a metaphorical sense for easy reading. There is nothing wrong in it if care is taken in distinguishing between a metaphorical and a literal use.
