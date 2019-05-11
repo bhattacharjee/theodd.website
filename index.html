@@ -11,11 +11,17 @@ layout: default
       <li>
         <span class="post-meta">
 		{{ post.date | date: "%b %-d, %Y" }}
-	        {% if post.nameofbook %}
-		&#9679; <i>An excerpt from </i>&quot;{{post.nameofbook}}&quot;{% if post.bookauthor %}, <i>{{post.bookauthor}}</i>{% endif %}
-		{%else if post.postauthor %}
-		&#9679; <i>{{post.postauthor}}</i>
-	        {% endif %}
+                {% if "review" == post.posttype %}
+	            {% if post.nameofbook and post.bookauthor %}
+		    &#9679; <i>A review of <i>&quot;{{post.nameofbook}}&quot; by <i>{{post.bookauthor}}<i>
+		    {% endif %}
+                {% else %}
+	            {% if post.nameofbook %}
+		    &#9679; <i>An excerpt from </i>&quot;{{post.nameofbook}}&quot;{% if post.bookauthor %} by <i>{{post.bookauthor}}</i>{% endif %}
+		    {%else if post.postauthor %}
+		    &#9679; <i>{{post.postauthor}}</i>
+	            {% endif %}
+                {% endif %}
 	</span>
 
         <h2>
