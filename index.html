@@ -13,7 +13,7 @@ layout: default
 		{{ post.date | date: "%b %-d, %Y" }}
                 {% if "review" == post.posttype %}
 	            {% if post.nameofbook and post.bookauthor %}
-		    &#9679; <i>A review of <i>&quot;{{post.nameofbook}}&quot; by <i>{{post.bookauthor}}</i>
+		    &#9679; <i>A review of </i>&quot;{{post.nameofbook}}&quot; by <i>{{post.bookauthor}}</i>
 		    {% endif %}
                 {% else %}
 	            {% if post.nameofbook %}
