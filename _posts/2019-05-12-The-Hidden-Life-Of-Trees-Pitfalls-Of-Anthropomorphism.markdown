@@ -18,16 +18,16 @@ nameofbook:  "The Hidden Life of Trees"
 ---
 A year and a half ago, I had a short exchange on social media with a lady who thought that plants could think, talk, smaell, taste and listen exactly as do. She wondered if her plants approved of her taste in music. If only she could understand what they were trying to tell her. I tried to explain that although plants are complex organisms which react to stimulus in sophisticated ways that we may never completely understand, but we can't take terms applicable to animals and whimsically apply them to plants defying the very precision with which those terms are used in science. Imagine if bats were to think that humans answering to their names is echolocation, it would be similar. She would have none of it and dismissed me as a hopeless ignoramus - it didn't matter that although I'm a computer scientist and not a biologist, I have a fairly good understanding of the basics of biology. She, on the other hand, had recently read Peter Wohlleben's book "The Hidden Life of Trees".
 
-This week, I picked up this book to read, and only a few pages, I was able to understand why she had such force in her conviction.
+This week, I picked up this book to read, and after only a few pages, I was able to understand why she had such force in her conviction.
 
 Peter Wohlleben is a forester in Germany, and the book is purportedly written so that laymen can appreciate the beauty and complexity of trees.  Trees are very intruiging and don't get the same amount of attention in science writing as animals do, and more science writing about trees is welcome. Trees are complex and fascinating organisms and much is not known about them.
 
 Wohlleben, however, is determined to present trees as human beings with barks and leaves. Anthropomorphism, unfortunately, is a fetish throughout the book, and becomes self defeating. Trees are fascinating and complex organisms, and they deserve our attention and respect for what they are, not for being like us and not for being useful to us.
 
-In the beginning Wohlleben, by enclosing smell in quotes, makes some distinction between trees actually having animal sense or having something akin to it.
+In the beginning Wohlleben, by enclosing the word smell in quotes, makes some distinction between trees actually having animal sense or having something akin to it.
 > As the chemical drifts through the air and reaches other trees, they "smell" it and are warned of the danger. Even before the giraffe reaches them, they begin producing toxic chemicals. Insect pests are dealt with slightly differently. The saliva of leaf-eating insects can be "tasted" by the leaf being eaten.
 
-Smell isn't merely the the chemical process of detection of a molecule. A large part of the sense is the cognition of it in which the brain transforms the detection of a molecule into something that we call a sense. If cognition weren't a part of it, one could well argue that gas chromatographs can smell just like humans can. However, popular science books often use anthropomorphic terms in a metaphorical sense for easy reading. There is nothing wrong in it if care is taken in distinguishing between a metaphorical and a literal use.
+Smell isn't merely the the chemical process of detection of a molecule. A large part of the sense is the cognition of it in which the brain transforms the detection of a molecule into something that we call a sense. If cognition weren't a part of it, one could well argue that gas chromatographs can smell just like humans can. Popular science books often use anthropomorphic terms in a metaphorical sense for easy reading. There is nothing wrong in it as long as it is clear that the usage is metaphorical and not literal.
 
 However, it isn't long before he ceases making such distinctions.
 > For if they can identify saliva, they must also have a sense of taste.
