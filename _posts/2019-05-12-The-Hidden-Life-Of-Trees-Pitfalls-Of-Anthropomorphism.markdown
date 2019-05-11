@@ -56,7 +56,7 @@ The references gets even more patchy where he cites personal communications with
 >
 >When trees grow together, nutrient and water can be optimally divided among them all so that each tree can grow into the best tree it can be. If you "help" individual trees by getting rid of their supposed competition, the remaining trees are bereft. They send messages to their neighbours in vain, because nothing remains but stumps. Every tree now muddles along its own, giving rise to great differences in productivity. Some individuals photosynthesize like mad until suger positively bubbles along their trunk.
 
-This line of argument is continued further where he claims passes off reproduction as "tree love".
+This line of argument is continued further where he passes off reproduction as "tree love".
 > Whether tree love happens every spring depends on species. Whereas confiers send their seeds out into the world at least once a year, deciduous trees have a completely different strategy. Before they bloom, they agree among themselves. Should they go for it next spring, or would it be better to wait a year or two?
 
 Not only does Wohlleben attribute human sensations to trees, he is also somehow able to figure out what is more difficult to endure for the tree.
