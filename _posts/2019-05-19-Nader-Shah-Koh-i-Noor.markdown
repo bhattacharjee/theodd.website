@@ -20,6 +20,13 @@ William Dalrymple and Anita Anand's book on the Koh-i-Noor diamond has some glim
 
 After the death of Aurangzeb, the Mughal dynasty went into a steady decline and emperors came and went. Between 1526 and 1707, in a span of 181 years, the Mughal dynasty saw six emperors. The following 40 years saw the same number of emperors, of which Muhammad Shah ruled the longest for 29 years. By the time Muhammad Shah became emperor, much of the political and military power had permanently flowed from of the emperor’s hands to that of regional strongmen who still payed nominal tribute to the emperor in Delhi. Sa’adat Khan of Awadh was the most powerful man in the North, while Nizam ul-Mulk the most powerful man in the Deccan. Delhi, itself, was still able to acquire the revenue generated in the provinces and was very prosperous.
 
+<div align="center">
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Asaf_Jah_I.jpg" alt="Nizam ul-Mulk" />
+		<figcaption>Nizam ul-Mulk</figcaption>
+	</figure>
+</div>
+
 > In January 1739, the Mughal Empire was still the wealthiest state in Asia. Almost all of the subcontinent was ruled from the Peacock Throne – with the Koh-i-Noor still glittering from one of the peacocks on its roof. Although it had been in decline for half a century, and often racked by internal conflict, the Mughal Empire still ruled mot of the rich and fertile lands from Kabul to the Carnatic. Moreover, its decadent and sophisticated capital, Delhi, with two million inhabitants, larger than London and Paris combined, was still the most prosperous and magnificent city between Ottoman Istanbul and Imperial Edo (Tokyo).
 >
 >Ruling this vast empire was the pleasure-loving Emperor Muhammad Shah – called Rangila, or Colourful, the Merry-Maker. He was an aesthete, much given to wearing tight, feminine *peshwaz* (long, open fronted outer garment) and shoes embroidered with pearls; he was also a discerning patron of music and painting. It was Muhammad Shah who brought the sitar and table out of the folk milieu and into his court. He revived the Mughal miniature atelier and employed master artists such as Nidha Mal and Chitarman, whose greatest works show bucolic scenes of Mughal court life: the palace Holi celebrations bathed in fabulous washes of red and orange; scenes of the emperor going hawking along the banks of the Yamuna or visiting his walled pleasure gardens; or, more rarely, holding audiences with his ministers amid the flower beds and parterres of the Red Fort.
@@ -54,6 +61,13 @@ Even then, Nizam ul-Mulk and Sa'dat Khan found it difficult to reconcile with ea
 >Nizam ul-Mulk appealed to Sa’adat Khan to ask Nader to put an end to the violence. Sa’adat Khan ordered him out. That evening, Sa’adat Khan committed suicide by taking poison, horrified at the disaster which he had helped unleash. The Nizam then went bareheaded, with his hands tied with his turban, and begged Nader on his knees to spare the inhabitants and instead to take revenge on him. Nader Shah sheathed his sword and ordered his troops to stop the killing; they obeyed immediately. He did so, however, on the condition that the nizam would give him 100 crore (one crore = ten million) rupees before he left Delhi. ‘The robbing, torture and plundering still continues,’ concluded Leypsigh, ‘but not, thankfully, the killing.’
 >
 >In the days that followed the nizam found himself in the unhappy position of having to loot his own capital city to pay the promised indemnity.
+
+<div align="center">
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Burhan_ul_Mulk_Sa%27adat_Khan.jpg" alt="Posthumous portrait of Nawab Saadat Khan of Awadh (r.1722-39). Lucknow, 1760." />
+		<figcaption>Posthumous portrait of Nawab Saadat Khan of Awadh (r.1722-39). Lucknow, 1760.</figcaption>
+	</figure>
+</div>
 
 Nadir Shah finally returned to Persia with an unimaginable booty.
 
