@@ -34,6 +34,13 @@ Around the same time the Safavid dynasty of Persia collapsed, creating a vacuum 
 
 The lack of unity and cut-throat rivalry between Sa’adat Khan and Nizam ul-Mulk made Nader’s job easy. Sa’adat Khan arrived late at the Mughal camp found Nizam ul-Mulk already camped there. Against the better advice of Nizam ul-Mulk, keen to prove his superiority, Sa’adat Khan marched straight into battle without allowing his troops to rest and understand the lay of the land. Sa’adat Khan’s walked into a trap laid out by Nader Shah and his army was decimated, and he was captured. When he was presented before Nader Shah and told that his rival had been promoted by Muhammad Shah, he perceived it as a ‘personal betrayal’, and revealed to Nader the extent of the wealth of the Mughal empire and encouraged him to increase his demands a hundred fold. It wasn’t long before Nader Shah was in Delhi, living in the Muhammad Shah’s palace in Muhammad Shah's own room, while Muhammad Shah was relegated to the women's quarters.
 
+<div align="center">
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/7_Muhammad_Shah_and_Nadir_Shah._1740%2C_Musee_Guimet%2C_Paris.jpg" alt="Mughal Emperor Muhammad Shah and King of Iran Nadir Shah. 1740, Musee Guimet, Paris" />
+		<figcaption>Mughal Emperor Muhammad Shah and King of Iran Nadir Shah. 1740, Musee Guimet, Paris</figcaption>
+	</figure>
+</div>
+
 
 Trouble however, was about to break in Delhi, and when Nader Shah's soldiers went to negotiate with the grain merchants of Paharganj, there was a scuffle.
 
