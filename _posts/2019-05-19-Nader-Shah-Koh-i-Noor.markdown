@@ -31,7 +31,15 @@ After the death of Aurangzeb, the Mughal dynasty went into a steady decline and 
 >
 >Ruling this vast empire was the pleasure-loving Emperor Muhammad Shah – called Rangila, or Colourful, the Merry-Maker. He was an aesthete, much given to wearing tight, feminine *peshwaz* (long, open fronted outer garment) and shoes embroidered with pearls; he was also a discerning patron of music and painting. It was Muhammad Shah who brought the sitar and table out of the folk milieu and into his court. He revived the Mughal miniature atelier and employed master artists such as Nidha Mal and Chitarman, whose greatest works show bucolic scenes of Mughal court life: the palace Holi celebrations bathed in fabulous washes of red and orange; scenes of the emperor going hawking along the banks of the Yamuna or visiting his walled pleasure gardens; or, more rarely, holding audiences with his ministers amid the flower beds and parterres of the Red Fort.
 >
->In reaction to the harsh Islamic puritan militarism of Aurangzeb’s era, under Muhammad Shah (1702-48), from about 1720 Delhi saw an explosion of unrestrainedly sensual art, dance, music and literary experimentation, with the city’s poets writing some of the most unblushingly amorous Indian poetry to be composed since the end of the classical period and a millennium earlier. This was the age of the greatest courtesans whose beauty and notorious coquettishness were celebrated across South Asia. Ad Begum would turn up stark naked at parties, but so cleverly painted that no one would notice: ‘she decorates her legs with eautiful drawings in the style of pyjamas instead of actually wearing them; in place of cuffs she draws flowers and petals in ink exactly as it is found in the finest cloth of Rum’.
+>In reaction to the harsh Islamic puritan militarism of Aurangzeb’s era, under
+>Muhammad Shah (1702-48), from about 1720 Delhi saw an explosion of
+>unrestrainedly sensual art, dance, music and literary experimentation, with the
+>city’s poets writing some of the most unblushingly amorous Indian poetry to be
+>composed since the end of the classical period and a millennium earlier. This
+>was the age of the greatest courtesans whose beauty and notorious
+>coquettishness were celebrated across South Asia. Ad Begum would turn up stark
+>naked at parties, but so cleverly painted that no one would notice: ‘she
+>decorates her legs with beautiful drawings in the style of pyjamas instead of actually wearing them; in place of cuffs she draws flowers and petals in ink exactly as it is found in the finest cloth of Rum’.
 
 
 
