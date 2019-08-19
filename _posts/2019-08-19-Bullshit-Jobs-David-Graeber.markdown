@@ -15,7 +15,7 @@ nameofbook:  "Bullshit Jobs"
 
 I would like this book to be an arrow aimed at the heart of our civilization. There is something very wrong with what we have made ourselves. We have become a civilization based on work—not even “productive work” but work as an end and meaning in itself. We have come to believe that men and women who do not work harder than they wish at jobs they do not particularly enjoy are bad people unworthy of love, care, or assistance from their communities. It is as if we have collectively acquiesced to our own enslavement. The main political reaction to our awareness that half the time we are engaged in utterly meaningless or even counterproductive activities—usually under the orders of a person we dislike—is to rankle with resentment over the fact there might be others out there who are not in the same trap. As a result, hatred, resentment, and suspicion have become the glue that holds society together. This is a disastrous state of affairs. I wish it to end.
 
----
+<p align=center>* * * </p>
 
 “The German military has a subcontractor that does their IT work.
 
