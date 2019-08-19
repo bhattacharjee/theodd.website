@@ -31,5 +31,7 @@ The logistics firm will then have to approve the moving down the hall and will r
 
 The office people in my company will then do whatever they do, and now I come in.
 
-I get an email: “Be at barracks B at time C.” Usually these barracks are one hundred to five hundred kilometers [62–310 miles] away from my home, so I will get a rental car. I take the rental car, drive to the barracks, let dispatch know that I arrived, fill out a form, unhook the computer, load the computer into a box, seal the box, have a guy from the logistics firm carry the[…]”
+I get an email: “Be at barracks B at time C.” Usually these barracks are one hundred to five hundred kilometers [62–310 miles] away from my home, so I will get a rental car. I take the rental car, drive to the barracks, let dispatch know that I arrived, fill out a form, unhook the computer, load the computer into a box, seal the box, have a guy from the logistics firm carry the box to the next room, where I unseal the box, fill out another form, hook up the computer, call dispatch to tell them how long I took, get a couple of signatures, take my rental car back home, send dispatch a letter with all of the paperwork and then get paid.
+
+So instead of the soldier carrying his computer for five meters, two people drive for a combined six to ten hours, fill out around fifteen pages of paperwork, and waste a good four hundred euros of taxpayers’ money.
 
