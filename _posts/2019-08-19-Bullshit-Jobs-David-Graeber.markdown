@@ -17,6 +17,7 @@ I would like this book to be an arrow aimed at the heart of our civilization. Th
 
 <div align="center">
 * * *
+<br />
 </div>
 
 “The German military has a subcontractor that does their IT work.
